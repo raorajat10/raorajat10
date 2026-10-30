@@ -15,6 +15,25 @@ I enjoy building scalable applications, developing REST APIs, integrating databa
 
 ---
 
+## 💼 Professional Experience
+
+### Web Developer | Sarvatra Energy
+*July 2025 – September 2026 | Jaipur, India*
+
+- Developed and maintained a full-stack solar energy web application using React, TypeScript, Redux, Node.js, Express.js, and MongoDB.
+- Designed and integrated backend APIs.
+- Worked on MongoDB database design and data persistence.
+- Implemented email-handling functionality for customer inquiries.
+- Developed reusable frontend components and integrated them with backend services.
+
+### Software Developer Intern | Dreamcast (Crosspoles)
+*July 2024 – August 2024 | Jaipur, India*
+
+- Developed full-stack web application features using React, Redux, Node.js, Express.js, and MongoDB.
+- Developed a chatbot for handling customer queries.
+- Implemented RESTful APIs and database integrations.
+- Built reusable React components and responsive interfaces.
+- Tested application functionality and debugged issues.
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -81,18 +100,6 @@ An AI-powered interview platform that generates personalized interview questions
 - Integrated Firebase for backend services and real-time data management.
 - Developed interview history and session management.
 - Built a responsive user interface.
-
-### 3. Solar Work — Solar Energy Web Application
-
-A full-stack solar energy application developed during my experience at Sarvatra Energy.
-
-**Tech Stack:** React, TypeScript, Redux, Node.js, Express.js, MongoDB, Bootstrap
-
-- Developed and maintained full-stack application features.
-- Designed and integrated backend REST APIs.
-- Implemented MongoDB database integration.
-- Developed reusable frontend components.
-- Integrated email-handling functionality for customer inquiries.
 
 ---
 
