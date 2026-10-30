@@ -146,7 +146,7 @@ I'm open to opportunities, collaborations, and interesting conversations about s
 
 📧 **Email:** [yadupatirajat@gmail.com](mailto:yadupatirajat@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn profile URL
+💼 **LinkedIn:**[(https://www.linkedin.com/in/rajat-yadav-baa710310/](https://www.linkedin.com/in/rajat-yadav-baa710310/)
 
 🐙 **GitHub:** [github.com/raorajat10](https://github.com/raorajat10)
 
